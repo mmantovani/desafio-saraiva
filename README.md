@@ -47,3 +47,4 @@ O relatório será gerado no diretório `target/site/jacoco`.
 
 Para execução dos testes, é utilizada uma base de dados em memória H2, não interferindo com a base de dados real.
 
+O percentual de cobertura está em **87%**.
