@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<book id="101"
+		sku="9731880"
+		name="Origem"
+		brand="Arqueiro"
+		price="34.90"
+		/>
+	<book id="102"
+		sku="8881153"
+		name="O Poder da Ação"
+		brand="Gente"
+		price="15.90"
+		/>
+	<book id="103"
+		sku="8887581"
+		name="Dom Casmurro"
+		brand="Via Leitura"
+		price="21.90"
+		/>
+</dataset>
